@@ -1,1 +1,1 @@
-# skynet-fe
+# skynet-server
